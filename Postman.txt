@@ -1,3 +1,5 @@
+https://fcm.googleapis.com/fcm/send
+
 POST /fcm/send HTTP/1.1
 Host: fcm.googleapis.com
 Content-Type: application/json
@@ -8,7 +10,7 @@ Postman-Token: e46b4320-544e-46e5-ee6b-298ff4c93b78
 {
 "to" : "/topics/all",
  "data" : {
- 	 "title": "Jeni CardView With Image And Text Example",
+ 	 "title": "CardView With Image And Text Example",
      "message" : "Android CardView is a component that used to implement card layout effect. It is provided in appcompat-v7 library. Use CardView, you can add circle corner and shadow effect to the card frame.n",
      "url":"https://stackoverflow.com/questions/2201917/how-can-i-open-a-url-in-androids-web-browser-from-my-application"
  },
