@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "249386371692",
+    "firebase_url": "https://store-notification-fc83e.firebaseio.com",
+    "project_id": "store-notification-fc83e",
+    "storage_bucket": "store-notification-fc83e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249386371692:android:e4abb71f716744e5",
+        "android_client_info": {
+          "package_name": "com.tops.storenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249386371692-44ka7gtktreqtk2iit64gt3spl9bs505.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "249386371692-44ka7gtktreqtk2iit64gt3spl9bs505.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAclYZz_ReDl54XUtDM4FI30k1Y4xbY-nU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
